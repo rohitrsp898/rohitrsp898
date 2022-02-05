@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Kumar Prajapati
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning ETL tools.
-- 💞️ I’m looking to collaborate on projets that sharp my skills.
+- 💞️ I’m looking to collaborate on projects that sharp my skills.
 - 📫 You can reach me - rohitrsp898@gmail.com
 
 <!---
